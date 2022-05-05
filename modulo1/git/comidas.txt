@@ -1,0 +1,10 @@
+1.Macarronada
+2.Lasanha
+3.Churrasco
+4.Filé a parmegiana
+5.Torresmo
+6.Coxinha
+7.Pastel
+8.Hamburguer
+9.Feijoada
+10.Pizza
