@@ -33,7 +33,7 @@ console.log(verificaSeEMaior(321, 2156));
 //Escreva true or false para as comparações abaixo:
 // exemplo 1>2 = false
 // a-) 1==='1'= true
-// b-) 1=='1'=
+// b-) 1=='1'= true
 // c-) 'a'==='b'= false
 // d-) 'b'>'a'= true
 // e-) 0!==null=
@@ -43,20 +43,28 @@ console.log(verificaSeEMaior(321, 2156));
 
 // Exercício 3------------------------------------------------------------------------------------
 
-const cadastro = () => {
-    const usuario = []
-
-    //  Sua lógica aqui
-
+const cadastro = () => 
+{
+    function cadastro
+    const nomeDoUsuario = (prompt("Qual é o seu nome de usuário?"))
+    const idade = Number(prompt("Qual é a sua idade?"))
+    const senhaDoUsuario = prompt("Digite uma senha")
+    const nacionalidade = prompt("Você é brasileiro? S/N")
+    if (anoDeNascimento >=18 &&  nacionalidade === "S")
+    console.log("Cadastro realizado com sucesso!")
+    else 
+    console.log ("Cadastro inválido!")
 }
+
 console.log(cadastro());
 
 // Exercício 4-----------------------------------------------------------------------------------------------
 
 const login = () => {
     const login = "labenu"
-    //  Sua lógica aqui
-
+    if (login === "labenu")
+    else
+    console.log ("Senha inválida")
 }
 
 console.log(login());
@@ -157,3 +165,4 @@ const avisoAosAtrasadosDesafio = () => {
     //  Sua lógica aqui
 }
 console.log(avisoAosAtrasadosDesafio());
+
