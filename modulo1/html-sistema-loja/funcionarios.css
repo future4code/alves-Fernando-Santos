@@ -1,0 +1,20 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+body{
+    background-color: rgb(191, 201, 200);
+    margin: 0px;
+    padding: 0px;
+}
+button{ 
+    background-color: rgb(198, 248, 243)
+}
+
+header{
+    background-color: rgb(114, 59, 23) ;
+    text-align: center;
+}
+footer{
+    text-align: left;
+}
